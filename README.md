@@ -9,3 +9,7 @@ new debug test
 master commit
 
 2nd master commit
+
+debug commit
+
+2nd debug commit
