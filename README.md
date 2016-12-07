@@ -6,4 +6,4 @@ push test
 
 new debug test
 
-master commit
+debug commit
